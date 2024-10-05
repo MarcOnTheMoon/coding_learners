@@ -1,4 +1,4 @@
-# Coding learners workbooks
+# Coding learners (C, Java, Arduino)
 Teaching at Hamburg University of Applied Sciences (HAW Hamburg) since 2010, I have created lots of material for my students over the years. For software development in C and Java this includes sample codes used in lectures as well as __workbooks__ containing exercises, questions, lab assignments, and exams. Students use these to apply, apply, and apply by practical coding. In the end, I want my students to have fun _doing_ things and apply, not learn books by heart. I am convinced that this will help them become good engineers.<p>
 
 This raised the question, why not share material with ... well, _you_, for instance, in case you find it helpful for your students or yourself. So this is exactly what I do:
@@ -11,8 +11,8 @@ This raised the question, why not share material with ... well, _you_, for insta
 > Additional material such as lecture slide sets and scripts are available for students at HAW Hamburg. Please refer to the electronic classroom.
 
 # C and Java
-<img src="./assets/images/WorkbookC.png" width="200" align=left>
-<img src="./assets/images/WorkbookJava.png" width="200">
+<img src="./c/assets/images/WorkbookC.png" width="200" align=left>
+<img src="./java/assets/images/WorkbookJava.png" width="200">
 
 ### Overview
 The workbooks contain a large number of exercises with sample solutions, questions, extensive lab assignments, and exams with sample solutions (C, only). Additionally, sample codes used in my lecture are provided.
@@ -22,11 +22,11 @@ The workbooks contain a large number of exercises with sample solutions, questio
 > Java source codes are in [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) projects.
 
 ### Uploaded material
-- [X] Workbooks ([C](docs/) in English, [Java](docs/) in German)
-- [X] Sample solutions for the exercises ([C](src/c/workbook/exercises), [Java](src/java/workbook))
-- [X] Provided files and sample solutions for the exams ([C](src/c/workbook/exams))
-- [X] Provided files for lab assignments ([C](src/c/workbook/labs), [Java](src/java/labs))
-- [X] Sample codes used in the lecture ([C](src/c/lecture), [Java](src/java/lecture))
+- [X] Workbooks ([C](c/docs/) in English, [Java](java/docs/) in German)
+- [X] Sample solutions for the exercises ([C](c/src/workbook/exercises), [Java](java/src/workbook))
+- [X] Provided files and sample solutions for the exams ([C](c/src/workbook/exams))
+- [X] Provided files for lab assignments ([C](c/src/workbook/labs), [Java](java/src/labs))
+- [X] Sample codes used in the lecture ([C](c/src/lecture), [Java](java/src/lecture))
 
 # Arduino boards
 <img src="./assets/images/ArduinoUno.png" width="200" align=left>
@@ -54,8 +54,8 @@ As many student projects use RC model cars, there is an introduction how to cont
 1. Control via a Bluetooth module (e. g., by an Android app)
 
 ### Uploaded material
-- [X] Slide sets ([PDF](docs/))
-- [X] Source codes ([fundamentals](src/arduino/fundamentals), [RC cars](src/arduino/rc_cars))
+- [X] Slide sets ([PDF](arduino/docs/))
+- [X] Source codes ([fundamentals](arduino/src/fundamentals), [RC cars](arduino/src/rc_cars))
 
 ## Contact
 [Marc Hensel](http://www.haw-hamburg.de/marc-hensel), University of Applied Sciences Hamburg (HAW Hamburg)
