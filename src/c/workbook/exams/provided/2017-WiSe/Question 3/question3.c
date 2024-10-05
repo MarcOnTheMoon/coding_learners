@@ -1,0 +1,18 @@
+/*****************************************************************************************************
+ * Provided file for lab exam.
+ *****************************************************************************************************
+ * Author: Marc Hensel, http://www.haw-hamburg.de/marc-hensel
+ * Project: https://github.com/MarcOnTheMoon/coding_learners_c/
+ * Copyright: 2023, Marc Hensel
+ * Version: 2023.09.18
+ * License: CC BY-NC-SA 4.0, see https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+ *****************************************************************************************************/
+
+#define _CRT_SECURE_NO_DEPRECATE	// Else MSVC++ prevents using functions with potential buffer overflow
+#include <stdio.h>
+
+/* Function prototypes (provided by examiner) */
+void sortDescending(int *a, int *b);
+int greatestCommonDivisor(int, int);
+int getNumberOfDivisors(int m);
+int* newArrayOfDivisors(int m);
