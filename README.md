@@ -29,7 +29,7 @@ The workbooks contain a large number of exercises with sample solutions, questio
 - [X] Sample codes used in the lecture ([C](c/src/lecture), [Java](java/src/lecture))
 
 # Arduino boards
-<img src="./assets/images/ArduinoUno.png" width="200" align=left>
+<img src="./arduino/assets/images/ArduinoUno.png" width="200" align=left>
 
 Arduino boards are quite cheap and easy to program, even for first-semester students. And it is easy to extend them by all sorts of sensors and actors, making them a perfect choice to apply all the theory covered in the lectures and create all sorts of systems (e.g., robotics) with only moderate effort. In this context, I have elaborated materials (slides and sample programs) to help my students learn quickly how to work with Arduinos. Maybe you find this material helpful as well.
 <br clear=all>
