@@ -57,5 +57,5 @@ As many student projects use RC model cars, there is an introduction how to cont
 - [X] Slide sets ([PDF](arduino/docs/))
 - [X] Source codes ([fundamentals](arduino/src/fundamentals), [RC cars](arduino/src/rc_cars))
 
-## Contact
+# Contact
 [Marc Hensel](http://www.haw-hamburg.de/marc-hensel), University of Applied Sciences Hamburg (HAW Hamburg)
