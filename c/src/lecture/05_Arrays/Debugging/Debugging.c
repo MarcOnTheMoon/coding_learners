@@ -17,7 +17,7 @@ int getSumAbs(const double a[SIZE]);
 int main(void)
 {
     double a[] = { -2.7, 3.1, -4 },
-        double sumAbs = getSumAbs(a);
+    double sumAbs = getSumAbs(a);
     printf("Sum of absolute values: %.1f\n", sumAbs);
     getchar();
     return 0;

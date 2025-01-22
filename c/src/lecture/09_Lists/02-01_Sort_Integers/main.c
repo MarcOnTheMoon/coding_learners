@@ -4,8 +4,8 @@
  *****************************************************************************************************
  * Author: Marc Hensel, http://www.haw-hamburg.de/marc-hensel
  * Project: https://github.com/MarcOnTheMoon/coding_learners_c/
- * Copyright: 2023, Marc Hensel
- * Version: 2023.08.23
+ * Copyright: 2025, Marc Hensel
+ * Version: 2025.01.14
  * License: CC BY-NC-SA 4.0, see https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
  *****************************************************************************************************/
 
@@ -32,6 +32,7 @@ int main(void)
 	unsigned timeInMs;
 
 	/* Initialize random values */
+	printf("If runtimes are 0 ms, build the program in debug mode.\n");
 	printf("Initializing %d random values in [0, %d] ...\n", COUNT, MAX_VAL);
 	srand((unsigned)time(NULL));
 	for (int i = 0; i < COUNT; i++)
