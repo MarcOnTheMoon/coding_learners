@@ -19,14 +19,14 @@ The workbooks contain a large number of exercises with sample solutions, questio
 
 > [!NOTE]
 > C source codes are in Visual Studio solution files.<br>
-> Java source codes are in [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) projects.
+> Java source codes are in [Eclipse](https://eclipseide.org/) projects.
 
 #### Uploaded material
 - [X] Workbooks ([C](c/docs/) in English, [Java](java/docs/) in German)
-- [X] Sample solutions for the exercises ([C](c/src/workbook/exercises), [Java](java/src/workbook))
+- [X] Sample solutions for the exercises ([C](c/src/workbook/exercises), [Java](java/src))
 - [X] Provided files and sample solutions for the exams ([C](c/src/workbook/exams))
-- [X] Provided files for lab assignments ([C](c/src/workbook/labs), [Java](java/src/labs))
-- [X] Sample codes used in the lecture ([C](c/src/lecture), [Java](java/src/lecture))
+- [X] Provided files for lab assignments ([C](c/src/workbook/labs), [Java](java/src))
+- [X] Sample codes used in the lecture ([C](c/src/lecture), [Java](java/src))
 
 ## Arduino boards
 <img src="./arduino/assets/images/ArduinoUno.png" width="200" align=left>
