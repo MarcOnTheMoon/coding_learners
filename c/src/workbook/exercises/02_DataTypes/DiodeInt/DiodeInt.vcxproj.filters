@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DiodeFloat.c">
+    <ClCompile Include="DiodeInt.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
