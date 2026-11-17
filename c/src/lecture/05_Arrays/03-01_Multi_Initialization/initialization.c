@@ -20,7 +20,7 @@ int main(void)
 	int a[SIZE_Y][SIZE_X] = { { 20, 37 },{ 16 } };	// Using braces for second dimension
 	int b[SIZE_Y][SIZE_X] = { 20, 37, 16 };			// Not using braces for second dimension
 
-													/* Print array a to the console */
+	/* Print array a to the console */
 	for (int y = 0; y < SIZE_Y; y++)
 	{
 		for (int x = 0; x < SIZE_X; x++)
